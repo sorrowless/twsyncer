@@ -1,0 +1,2 @@
+PyGithub==1.50
+taskw==1.2.0
