@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/sorrowless/twsyncer.svg?branch=master)](https://travis-ci.com/sorrowless/twsyncer)
+
 # Taskwarrior Sync
 
 Taskwarrior Sync is a small tool to sync local Taskwarrior database with some
