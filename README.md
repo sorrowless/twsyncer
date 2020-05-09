@@ -16,7 +16,7 @@ issue tracker.
 ### Configuration
 
 Create configuration file in `~/.config/twsyncer/config.json` (look at
-the [example](`config.example.json`).
+the [example](config.example.json).
 
 If you do not want to create config, you can just export several environment
 variables:
