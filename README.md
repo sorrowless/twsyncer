@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/sorrowless/twsyncer.svg?branch=master)](https://travis-ci.com/sorrowless/twsyncer)
+![PyPI](https://img.shields.io/pypi/v/twsyncer)
+
 
 # Taskwarrior Sync
 
