@@ -1,0 +1,8 @@
+{
+  "dry_run": "False",
+  "token": "changeme",
+  "org_login": "some login",
+  "project_name": "DevOps",
+  "issues_repo": "repo name to create issues in",
+  "tw_filter_project": "work.tickets"
+}

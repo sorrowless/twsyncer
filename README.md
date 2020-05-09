@@ -9,13 +9,17 @@ remote issues tracker. Currently Github is a priority and it is only supported
 issue tracker.
 
 
-### How to run
+### Installation
 
-Install requirements:
+`pip install twsyncer`
 
-`pip install -r requirements.txt`
+### Configuration
 
-Export several environment variables:
+Create configuration file in `~/.config/twsyncer/config.json` (look at
+the [example](`config.example.json`).
+
+If you do not want to create config, you can just export several environment
+variables:
 
 `TW_DRY_RUN` should be set to `False` to really sync something
 

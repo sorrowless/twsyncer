@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="twsyncer",
-    version="0.0.3",
+    version="0.0.4",
     author="Stan Bogatkin",
     author_email="sbog@sbog.ru",
     description="Tool to sync Taswarrior and remote task trackers",
