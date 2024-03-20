@@ -2,4 +2,4 @@ flake8==3.7.9
 tox==3.15.0
 setuptools
 wheel
-black==20.8b1
+black==24.3.0
